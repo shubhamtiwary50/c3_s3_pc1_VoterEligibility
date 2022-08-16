@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d9b2cdc-7de9-4a09-9886-fbe7ace6d8b2" name="Changes" comment="" />
+    <list default="true" id="9d9b2cdc-7de9-4a09-9886-fbe7ace6d8b2" name="Changes" comment="Completed the Voter class and created the voter impl">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/election/VoterImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/election/VoterImpl.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DQoeSortDxHEMdHjujGRTFTQrh" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +35,26 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="VoterImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.election.VoterImpl" />
+      <module name="c3_s3_pc1_VoterEligibility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.election.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.VoterImpl" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,6 +64,35 @@
       <option name="presentableId" value="Default" />
       <updated>1660640766180</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created class file and package">
+      <created>1660641105602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660641105602</updated>
+    </task>
+    <task id="LOCAL-00002" summary="declared attributes">
+      <created>1660641184777</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660641184777</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added static final age for voting">
+      <created>1660641274423</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660641274423</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Completed the Voter class and created the voter impl">
+      <created>1660641739732</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1660641739732</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -40,5 +105,12 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created class file and package" />
+    <MESSAGE value="declared attributes" />
+    <MESSAGE value="added static final age for voting" />
+    <MESSAGE value="Completed the Voter class and created the voter impl" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed the Voter class and created the voter impl" />
   </component>
 </project>
